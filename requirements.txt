@@ -103,7 +103,7 @@ wcwidth==0.1.7
 WeasyPrint==44
 webapp2==2.5.2
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 yams==0.45.1
 Yapps2==2.2.0
 zcrmsdk==1.0.6
