@@ -85,7 +85,7 @@ pytz==2018.7
 PyYAML==3.13
 requests==2.20.1
 restclient==0.11.0
-rsa==4.0
+rsa==4.1
 runcmd==2018.11.20
 six==1.11.0
 soupsieve==1.7.3
